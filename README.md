@@ -1,2 +1,12 @@
 # Bist_analiz
-# 📊 BIST Analiz  Borsa İstanbul hisselerini teknik göstergeler ve yapay zekâ ile analiz eden web tabanlı platform.  Python ve Flask ile veriler işlenir, frontend üzerinde sunulur ve yapay zekâ ile teknik görünüm analiz edilir.  **Python • Flask • JavaScript • HTML/CSS • Firebase • Yapay Zekâ**
+
+
+Bu yazılım hakkında daha fazla bilgi sahibi olmak isterseniz 
+https://x.com/kagangokcegoz bu adresten daha fazla bilgiye ulaşabilirsiniz
+
+
+
+
+Örnek Fotoğraflar
+
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/1c2c7efc-9ed8-4fa4-bb3a-47541c58c049" />
